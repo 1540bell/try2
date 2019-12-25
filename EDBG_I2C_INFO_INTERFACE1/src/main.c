@@ -307,6 +307,7 @@ int main(void)
 
 	while (1) {
 		/* Infinite loop */
+		int a =0;// added by me000
 	}
 
 }
